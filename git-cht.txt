@@ -25,3 +25,6 @@ http://bit.ly/git-cht
 
 ¡@GitHub for Mac
 ¡@https://mac.github.com/
+
+#amend 
+#reflog 
