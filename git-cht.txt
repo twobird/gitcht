@@ -28,3 +28,7 @@ http://bit.ly/git-cht
 
 #amend 
 #reflog 
+
+gitbucket
+gitlabs
+visual studio git
