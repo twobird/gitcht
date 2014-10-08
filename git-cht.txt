@@ -1,0 +1,27 @@
+http://bit.ly/git-cht
+
+1. 命令提示字元工具 ( Windows )
+
+　Git for Windows
+　http://git-scm.com/
+
+2. 圖形化操作介面工具 ( Windows/Mac )
+
+　TortoiseGit (Windows)
+　https://code.google.com/p/tortoisegit
+
+　Git Extensions
+　https://code.google.com/p/gitextensions/
+
+　Visual Studio Tools for Git (Windows) (Visual Studio 2012)
+　http://visualstudiogallery.msdn.microsoft.com/abafc7d6-dcaa-40f4-8a5e-d6724bdb980c
+　※ 備註：Visual Studio 2013 已內建
+
+　SourceTree (Windows/Mac)
+　http://www.sourcetreeapp.com
+
+　GitHub for Windows ( 含 Git Shell 工具 )
+　http://windows.github.com
+
+　GitHub for Mac
+　https://mac.github.com/
